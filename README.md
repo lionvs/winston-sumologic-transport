@@ -6,7 +6,7 @@ A transport for the Winston logger for logging to a SumoLogic endpoint
 ## Installation
 ```
 npm install --save winston-sumologic-transport
-```
+``` 
 
 ## Usage
 
