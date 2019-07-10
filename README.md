@@ -23,7 +23,7 @@ npm install --save winston-sumologic-transport
 ```
 
 ## SumoLogic message
-
+ 
 After logging message appears in SumoLogic in following format:
 ```json
 {
